@@ -89,7 +89,8 @@ printf("THE RESULTS OF CLIENTS ARE ...... \n"); write(1,buff,n);
 
 
 ## OUTPUT
-![image](https://github.com/BharathCSEIOT/Linux-IPC-Pipes/assets/122793480/142cd16b-c9f4-4c54-978c-36ca0b0417f9)
+![image](https://github.com/BharathCSEIOT/Linux-IPC-Pipes/assets/122793480/41a5190d-e395-49b6-8b74-1766f4d7510f)
+
 
 
 
